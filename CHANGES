@@ -1,4 +1,9 @@
-PosteRazor 1.9.7
+PosteRazor 1.9.8 - Mac Only
+================
+-   Added: Modern macOS interface.
+-   Added: Light/dark mode support with automatic appearance change handling
+
+PosteRazor 1.9.7 - Mac Only
 ================
 -   Added: Native macOS support with modern build configuration
 -   Added: macOS packaging script for creating distributable app bundles
